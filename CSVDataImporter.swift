@@ -3,7 +3,7 @@
 //
 //  Created by Paul Anguiano on 3/13/18.
 //  Copyright © 2018 Gentle Works.
-//  Distributed under MIT license, usage is granted freely under those terms (see included license.txt).
+//  Distributed under MIT license, usage is granted freely under those terms (see included LICENSE file).
 //  
 //  Adapted from/inspired by https://makeapppie.com/2016/05/30/how-to-read-csv-files-from-the-web-in-swift/
 //  with many bug fixes, updates for Swift 4, and refactoring for library use
